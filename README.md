@@ -41,3 +41,28 @@ This repository contains my featured mechanical design projects, including param
 For my complete portfolio and future updates, visit my GitHub profile:
 
 **https://github.com/KeertiVardhanSinghCAD**
+Hi! I'm Keerti, a Mechanical CAD Designer specializing in FreeCAD.
+
+## Services
+- Mechanical Part Modeling
+- Technical Drawings
+- Assembly Design
+- Parametric CAD Models
+
+## Portfolio
+
+The portfolio PDF is available in:
+
+📁 Documents/Portfolio.pdf
+
+## Projects
+
+Browse the Projects folder to see examples of my work.
+
+## Contact
+
+📧 keerti.cad.design@gmail.com
+
+GitHub:
+https://github.com/KeertiVardhanSinghCAD
+
